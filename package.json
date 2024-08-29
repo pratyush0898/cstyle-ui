@@ -1,0 +1,19 @@
+{
+  "name": "cstyle-ui",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "author": "nvmPratyush",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/pratyush0898/cstyle-ui.git"
+	},
+	"homepage": "https://github.com/pratyush0898/cstyle-ui#readme",
+	"bugs": {
+		"url": "https://github.com/pratyush0898/cstyle-ui/issues"
+	},
+  "license": "Apache-2.0",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
