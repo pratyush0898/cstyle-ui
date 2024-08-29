@@ -48,11 +48,7 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
-
-## Stay Updated
-
-Follow the development and get updates by visiting the official repository: [cstyle-ui](https://github.com/nvmPratyush/cstyle-ui) on GitHub.
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 *For more details and full documentation, visit the official website (coming soon!).*
 
