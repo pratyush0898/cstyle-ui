@@ -1,4 +1,3 @@
-
 # cstyle-ui
 
 ## Overview
@@ -34,13 +33,44 @@ export default App;
 
 ### Available Components
 
-- **Button1**: A simple button component with customizable label and styles.
+- **Button**: 30 buttons are aviavable. *(goal: 100)*
+
+  - Button1
+  - Button2
+  - Button3
+  - Button4
+  - Button5
+  - Button6
+  - Button7
+  - Button8
+  - Button9
+  - Button10
+  - Button11
+  - Button12
+  - Button13
+  - Button14
+  - Button15
+  - Button16
+  - Button17
+  - Button18
+  - Button19
+  - Button20
+  - Button21
+  - Button22
+  - Button23
+  - Button24
+  - Button25
+  - Button26
+  - Button27
+  - Button28
+  - Button29
+  - Button30
 
 More components, such as `Cards`, `Inputs`, and others, will be added in future updates.
 
 ## Development Status
 
-The library is currently in its early stages and only includes the `Button1` component. Many more components and features will be added in upcoming versions.
+The library is currently in its early stages and only includes the `30 Buttons` component. Many more components and features will be added in upcoming versions.
 
 ## Contribution
 
