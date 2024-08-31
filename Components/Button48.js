@@ -3,11 +3,11 @@ import './cstyleui.css'
 
 const Button48 = ({ label, onClick, style }) => {
   return (
-    <button class="button-48" role="button">
+
+    <button onClick={onClick} style={style} className="cstyle-button48">
         <span class="text">
             {label}
         </span>
-        
     </button>
   )
 }
