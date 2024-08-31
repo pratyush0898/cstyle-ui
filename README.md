@@ -97,6 +97,11 @@ The library is currently in its early stages and only includes the `50 Buttons` 
 
 Contributions are welcome! If you’d like to contribute, please fork the repository and create a pull request. Feel free to open issues for any bugs or feature requests.
 
+## Stay Updated
+
+Follow the development and get updates by visiting the official repository: [cstyle-ui](https://github.com/nvmPratyush/cstyle-ui) on GitHub.
+
+
 ## License
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
