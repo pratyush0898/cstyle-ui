@@ -28,6 +28,26 @@ import Button27 from "./Components/Button27";
 import Button28 from "./Components/Button28";
 import Button29 from "./Components/Button29";
 import Button30 from "./Components/Button30";
+import Button31 from "./Components/Button31";
+import Button32 from "./Components/Button32";
+import Button33 from "./Components/Button33";
+import Button34 from "./Components/Button34";
+import Button35 from "./Components/Button35";
+import Button36 from "./Components/Button36";
+import Button37 from "./Components/Button37";
+import Button38 from "./Components/Button38";
+import Button39 from "./Components/Button39";
+import Button40 from "./Components/Button40";
+import Button41 from "./Components/Button41";
+import Button42 from "./Components/Button42";
+import Button43 from "./Components/Button43";
+import Button44 from "./Components/Button44";
+import Button45 from "./Components/Button45";
+import Button46 from "./Components/Button46";
+import Button47 from "./Components/Button47";
+import Button48 from "./Components/Button48";
+import Button49 from "./Components/Button49";
+import Button50 from "./Components/Button50";
 import './Components/cstyleui.css'
 
 const Cstyle = {
@@ -60,7 +80,27 @@ const Cstyle = {
     Button27,
     Button28,
     Button29,
-    Button30
+    Button30,
+    Button31,
+    Button32,
+    Button33,
+    Button34,
+    Button35,
+    Button36,
+    Button37,
+    Button38,
+    Button39,
+    Button40,
+    Button41,
+    Button42,
+    Button43,
+    Button44,
+    Button45,
+    Button46,
+    Button47,
+    Button48,
+    Button49,
+    Button50,
 };
 
 // Default export

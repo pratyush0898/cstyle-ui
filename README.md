@@ -33,7 +33,7 @@ export default App;
 
 ### Available Components
 
-- **Button**: 30 buttons are aviavable. *(goal: 100)*
+- **Button**: 50 buttons are aviavable. *(goal: 100)*
 
   - Button1
   - Button2
@@ -65,12 +65,33 @@ export default App;
   - Button28
   - Button29
   - Button30
+  - Button31
+  - Button32
+  - Button33
+  - Button34
+  - Button35
+  - Button36
+  - Button37
+  - Button38
+  - Button39
+  - Button40
+  - Button41
+  - Button42
+  - Button43
+  - Button44
+  - Button45
+  - Button46
+  - Button47
+  - Button48
+  - Button49
+  - Button50
+
 
 More components, such as `Cards`, `Inputs`, and others, will be added in future updates.
 
 ## Development Status
 
-The library is currently in its early stages and only includes the `30 Buttons` component. Many more components and features will be added in upcoming versions.
+The library is currently in its early stages and only includes the `50 Buttons` component. Many more components and features will be added in upcoming versions.
 
 ## Contribution
 
